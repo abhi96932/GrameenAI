@@ -1,0 +1,19 @@
+{
+  "wheat": {
+    "season": "Rabi",
+    "sowing_time": "October to December",
+    "soil": "Loamy soil with good drainage",
+    "irrigation": "4 to 6 irrigations required during growth",
+    "fertilizer": "Use nitrogen, phosphorus, and potassium fertilizers",
+    "harvest_time": "March to April"
+  },
+
+  "rice": {
+    "season": "Kharif",
+    "sowing_time": "June to July",
+    "soil": "Clay or loamy soil",
+    "irrigation": "Needs standing water in fields",
+    "fertilizer": "Nitrogen fertilizer improves yield",
+    "harvest_time": "September to October"
+  }
+}
